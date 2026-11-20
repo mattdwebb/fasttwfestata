@@ -1,0 +1,5 @@
+*.log
+*.smcl
+__pycache__/
+
+examples/school_results.csv

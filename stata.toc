@@ -1,0 +1,3 @@
+v 3
+d Native TWFE package
+p fasttwfe Native implementation; see VALIDATION.md for tested scope

@@ -1,0 +1,8 @@
+{
+  "tests": [
+    "tests/run.do",
+    "tests/minimum_clusters.do"
+  ],
+  "compare": "tests/compare.py",
+  "cwd": "."
+}

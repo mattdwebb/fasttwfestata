@@ -1,0 +1,8 @@
+v 3
+d Version: 0.1.0
+d Author: Matthew D. Webb
+d License: MIT; see LICENSE and retained third-party notices
+d Native TWFE implementation
+f fasttwfe.ado
+f fasttwfe.mata
+f fasttwfe.sthlp
